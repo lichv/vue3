@@ -1,7 +1,9 @@
 import shortMessages from './shortMessages'
+import getMenus from './getMenus'
 
 let api = {
-    shortMessages
+    shortMessages,
+    getMenus
 }
 
 export default api
